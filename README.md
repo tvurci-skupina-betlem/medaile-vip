@@ -1,2 +1,2 @@
-# medaile-xyz
-Web presentation for medaile.xyz
+# medaile-vip
+Web presentation for medaile.vip
